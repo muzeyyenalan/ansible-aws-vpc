@@ -2,8 +2,8 @@
   connection: local 
   gather_facts: False 
   tasks:
-    - name: ımport VPC Variables
-      include_vars: ./vpc_setup.txt
+    - name: import VPC Variables
+      include_vars: vars/vpc_setup
   
     - name: Create vprofile VPC
       ec2_vpc_net: 
