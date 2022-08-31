@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible.json#/$defs/playbook": "file:///c%3A/Users/muzey/Desktop/repository/ansible-aws-vpc/vpc-setup.yml"
+    }
+}
